@@ -66,8 +66,8 @@ main p {
   color: #a4a9b0;
   text-align: center;
   word-break: break-word;
-  padding: 1.15em;
-  font-size: 1.15em;
+  padding: 1.15em 1em;
+  /*font-size: 1.15em;*/
 }
 
 @media (max-width: 320px) {
